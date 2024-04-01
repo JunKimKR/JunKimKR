@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**JunKimKR/JunKimKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Hello. 
+I'm Jun Kim from South Korea.
 
-Here are some ideas to get you started:
+## Career
+- Yeungnam University computer engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- Email - junkim8193@gmail.com
+- Instagram ID - junkimkr
+  
+## Study
+- c++
+- discrete mathematics
+- Open source SW

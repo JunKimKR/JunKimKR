@@ -3,6 +3,7 @@
 ## Introduction
 Hello. 
 I'm Jun Kim from South Korea.
+I want to become a professional developer who can have a positive impact all over the world.
 
 ## Career
 - Yeungnam University computer engineering

@@ -2,7 +2,7 @@
 
 ## Introduction
 Hello. 
-I'm Jun Kim from South Korea.
+I'm Jun Kim from South Korea.</br>
 I want to become a professional developer who can have a positive impact all over the world.
 
 ## Career

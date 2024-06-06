@@ -20,7 +20,7 @@ I want to become a professional developer who can have a positive impact all ove
 - discrete mathematics
 - Open source SW
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunKimKR&count_bg=%23FFA27F&title_bg=%23FF0000&icon=awesomelists.svg&icon_color=%23FFE8C5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunKimKR&count_bg=%236528F7&title_bg=%23A076F9&icon=awesomelists.svg&icon_color=%23D7BBF5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunKimKR)](https://github.com/anuraghazra/github-readme-stats)  
 

@@ -19,8 +19,8 @@ I want to become a professional developer who can have a positive impact all ove
 - c++
 - discrete mathematics
 - Open source SW
+![js]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunKimKR&count_bg=%236528F7&title_bg=%23A076F9&icon=awesomelists.svg&icon_color=%23D7BBF5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

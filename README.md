@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E49BFF&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=150&section=header" />
 
 
 ### Hi there 👋
@@ -26,4 +26,4 @@ I want to become a professional developer who can have a positive impact all ove
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunKimKR)](https://github.com/anuraghazra/github-readme-stats)  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9A00&height=150&section=footer" />

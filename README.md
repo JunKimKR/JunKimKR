@@ -26,9 +26,8 @@ I want to become a professional developer who can have a positive impact all ove
 
 
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3><div align="center">
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunKimKR&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D7BBF5&height=150&section=footer" />

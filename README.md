@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6528F7&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=venom&color=A076F9&height=300&section=header&text=Welcome%20to%20Jun's%20office.&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=A076F9&height=300&section=header&text=Welcome%20to%20Jun's%20office.&fontSize=80" />
 
 ### Hi there 👋
 
